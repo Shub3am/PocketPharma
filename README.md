@@ -4,6 +4,14 @@
 - **Project Name:** PocketPharma
 - **Status:** Production-ready application (evolved from Live The Code 3.0 hackathon)
 
+## Demo
+
+[![PocketPharma demo](docs/demo/demo.gif)](docs/demo/demo.mp4)
+
+Uploading a photo of a Burana 600 mg ibuprofen box, then the identified medicine and cheaper generic alternatives with INR prices appearing.
+
+Box photo: [Burana600.jpg](https://commons.wikimedia.org/wiki/File:Burana600.jpg) by Styroks, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## Overview
 
 PocketPharma is a web application that revolutionizes how people access affordable medication by leveraging AI to identify medicines from photos and suggest cost-effective generic alternatives. What started as a hackathon project has evolved into a robust, production-ready platform.
